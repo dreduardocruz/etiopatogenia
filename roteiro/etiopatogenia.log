@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.10.18)  21 MAR 2020 19:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2019.10.18)  18 APR 2020 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,6 +396,9 @@ l.88 \thispagestyle
                    {empty} [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./etiopatogenia.toc
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -424,24 +427,6 @@ l.47 ...}sico e por sedentarismo}{15}{section.5.2}
 ]
 Cap\'{\i }tulo 1.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 100.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 100.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\utf@viii@undeferr' on input line 100.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 100.
-
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
 Overfull \hbox (3.64133pt too wide) in paragraph at lines 108--109
 []\OT1/qcs/m/n/12 A diferencia[][]ao en-tre s[]^^Pndrome do ex-te-rior e do in-
 te-rior []e um m[]etodo para evi-den-ciar a localiza[][]ao
@@ -676,8 +661,8 @@ Package rerunfilecheck Warning: File `etiopatogenia.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `etiopatogenia.out':
-(rerunfilecheck)             Before: A8C6B89CCC7BABEE3A465C7F90CD8C30;6364
-(rerunfilecheck)             After:  9D4B9CA6D75AC4E38C107FA141F390B9;6420.
+(rerunfilecheck)             Before: 9D4B9CA6D75AC4E38C107FA141F390B9;6420
+(rerunfilecheck)             After:  A8C6B89CCC7BABEE3A465C7F90CD8C30;6364.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -690,12 +675,12 @@ Here is how much of TeX's memory you used:
  11523 multiletter control sequences out of 15000+600000
  37771 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,15n,37p,1063b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,15n,37p,1063b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/p
 ublic/tex-gyre/qcsb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qcsr.pfb>
 </usr/share/texmf/fonts/type1/public/tex-gyre/qcsri.pfb>
-Output written on etiopatogenia.pdf (30 pages, 174655 bytes).
+Output written on etiopatogenia.pdf (30 pages, 174892 bytes).
 PDF statistics:
  554 PDF objects out of 1000 (max. 8388607)
  511 compressed objects within 6 object streams

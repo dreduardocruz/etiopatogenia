@@ -1,5 +1,5 @@
 \babel@toc {brazil}{}
-\contentsline {chapter}{\numberline {1}TEORIA DOS 8 PRINC\begingroup \let \relax \relax \endgroup [Pleaseinsert\PrerenderUnicode {Í}intopreamble]PIOS}{4}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}TEORIA DOS 8 PRINC\IeC {\'I}PIOS}{4}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}S\IeC {\'\i }ndrome do Exterior e S\IeC {\'\i }ndrome do Interior}{4}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}S\IeC {\'\i }ndrome do Exterior}{4}{subsection.1.1.1}% 
 \contentsline {subsection}{\numberline {1.1.2}S\IeC {\'\i }ndrome do Interior}{5}{subsection.1.1.2}% 
