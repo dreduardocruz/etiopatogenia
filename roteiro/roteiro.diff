@@ -1,0 +1,802 @@
+--- roteiro_cor.txt	2020-03-21 19:12:35.477978016 -0300
++++ roteiro_orig.txt	2020-03-21 19:10:22.648954343 -0300
+@@ -1,362 +1,437 @@
+-﻿ROTEIRO PARA DIAGNÓSTICO NA MTC
+-
+-
+-TEORIA DOS 8 PRINCÍPIOS
+-
+-       A Teoria dos "Oito Princípios" está relacionada a quatro pares de mudanças patológicas: exterior e interior, calor e frio, excesso e deficiência, Yang e Yin. A diferenciação das síndromes de acordo com os oito princípios é o método pelo qual a localização e a natureza das mudanças patológicas, bem como a condição do Qi Vital e dos fatores patogênicos no curso de uma doença, podem ser sumarizados e explicadas, através do emprego de uma ampla análise dos sinais e sintomas colhidos através dos "Quatro Métodos Diagnósticos".
+-       As manifestações de uma doença, mesmo complexa, podem ser sintetizadas de acordo com os oito princípios. Dessa forma, a localização da enfermidade pode ser discriminada entre exterior e interior; a condição patogênica ou a natureza da doença pode ser classificada em calor e frio; a morbidade pode ser definida através do conceito de excesso, quando o fator patogênico é forte, ou de deficiência, quando o Qi vital está deficiente. Entre os oito princípios, o par Yin e Yang é o mais geral e engloba os outros seis, considerando-se que o exterior, calor e excesso são Yang e interior, frio e deficiência são Yin. Neste sentido, o princípio "Yin e Yang" é a compilação dos "Oito Princípios". 
+-       Resumindo, através da diferenciação das síndromes de acordo com os oito princípios, as manifestações clínicas complexas podem ser sintetizadas e classificadas nestes quatro pares principais: exterior e/ou interior, frio e/ou calor, excesso e/ou deficiência, bem como Yin e Yang, visando um maior esclarecimento sobre a enfermidade, determinar seus principais pontos, predizer a tendência de sua evolução e, finalmente, orientar o tratamento.
+-
+-       - Síndrome do Exterior e Síndrome do Interior 
+-       
+-       A diferenciação entre síndrome do exterior e do interior é um método para evidenciar a localização da mudança patológica e mensurar a severidade da doença. Falando genericamente, uma doença deve ser classificada como "síndrome do exterior" quando os fatores patogênicos afetam estruturas de localização superficial (da pele até a musculatura estriada). Por outro lado, uma doença é considerada "síndrome do interior", se for resultante de mudanças patológicas localizadas internamente, como nos Zang Fu, nos vasos sanguíneos mais profundos ou na medula óssea. Em relação à acupuntura, a inserção superficial com retirada rápida da agulha é indicada para doenças classificadas como síndromes do exterior, enquanto a inserção profunda com retenção prolongada das agulhas se adéqua àquelas definidas como síndromes do interior.
+-       
+-       1. Síndrome do Exterior
+-       A síndrome do exterior é indicada pelos sinais e sintomas decorrentes da invasão da superfície corporal por fatores patogênicos exógenos através da pele, da boca ou do nariz. É usualmente encontrada no estágio inicial das doenças febris de origem externa e se caracteriza, em geral, por um ataque súbito com evolução de curta duração.
+-       Manifestações clínicas: Febre e aversão ao frio (ou ao vento), cefaléia e dolorimento generalizado no corpo (polimialgia), revestimento fino e branco da língua, pulso superficial, acompanhado de obstrução nasal com coriza, dor e/ou prurido na garganta e tosse.
+-       
+-       2. Síndrome do Interior
+-       A síndrome do interior é indicada pelos sinais físicos e sintomas da doença localizada no interior do corpo (Zang Fu, Qi, Xue e medula óssea). Habitualmente, é vista no estágio intermediário ou tardio das doenças febris, bem como em doenças complexas devido ao enfraquecimento e/ou lesão interna.
+-       Manifestações clínicas: As causas da síndrome do interior são complexas e variáveis. As possibilidades de sua localização são múltiplas e, portanto, suas manifestações são muito variadas. Em geral, a síndrome do interior engloba todas as doenças, exceto as da síndrome do exterior. 
+-       
+-       3. Aspectos essenciais da distinção entre Síndrome do Interior e Síndrome do Exterior 
+-       Para distinguir a síndrome do exterior da síndrome do interior, é necessário interrogar o doente a respeito da história de sua doença, observar se a síndrome se deve ao frio ou ao calor e avaliar o revestimento da língua e a condição do pulso.
+-       
+-       Tabela 1 - Aspectos essenciais da distinção entre Síndrome do Interior e Síndrome do Exterior
+-       
+-AspectosSíndrome do ExteriorSíndrome do InteriorCurso da doençaAtaque recente e curso breveCrônico e curso longoFrio ou calorFebre com aversão ao frioFebre sem aversão ao frio ou frio sem febreRevestimento da línguaRevestimento normal, eventualmente com a ponta e/ou bordas vermelhasManifestações anormais na língua podem ser encontradas (corpo e saburra)Condição do pulsoPulso superficialPulso profundo       
+-       
+-       - Diferenciação entre síndromes de Frio e de Calor
+-       
+-       Entre as síndromes dos oito princípios, calor e frio analisam e diferenciam a natureza da condição patológica. As síndromes de frio e calor revelam os estados de excesso e deficiência de Yin e Yang no corpo. Excesso de Yin ou deficiência de Yang levam à síndrome de frio; excesso de Yang ou deficiência de Yin levam à síndrome de calor. 
+-       A síndrome de frio requer retenção prolongada das agulhas ou tratamento com agulhas aquecidas. A moxibustão pode ser utilizada. 
+-       No caso da síndrome de calor, as agulhas filiformes são aplicadas superficialmente, sendo rapidamente retiradas, ou aplicação de sangria. Na maior parte dos casos a moxibustão não é indicada.
+-       
+-       1. Síndrome de Frio
+-       As síndromes de frio são normalmente causadas por ataque pelo frio patogênico ou por deficiência de Yang com excesso de Yin. São classificadas como síndromes de frio do exterior, frio do interior, frio por deficiência e frio por excesso. 
+-       Os sinais e sintomas diferem conforme os vários tipos de síndrome de frio (excesso, deficiência, exterior, interior). Geralmente, caracteriza-se por aversão ao frio e preferência por calor, compleição pálida, membros frios, tendência a se encolher no leito, diminuição do paladar ou paladar insípido, ausência de sede, saliva fluida, coriza líquida, micção volumosa com urina pouco concentrada de cor clara, fezes amolecidas, língua pálida com revestimento branco úmido e pulso profundo, lento ou tenso.
+-       2. Síndrome de Calor
+-       As síndromes de calor são causadas pelo calor patogênico ou pelo Yang preponderante por deficiência de Yin que provocam hiperatividade emocional no organismo. A síndrome de calor inclui as doenças secundárias a calor do exterior, calor do interior, calor por deficiência e calor por excesso. Os sinais e sintomas diferem conforme os vários tipos de síndromes de calor. Os mais comuns são a aversão ao calor e preferência pelo frio, sede com desejo de bebidas frias, rubor facial e ocular disforia, irritabilidade, urina escassa e concentrada, constipação, expectoração espessa e amarela, descarga nasal espessa e amarela, hematêmese, epistaxe, língua vermelha com revestimento amarelo e seco e pulso rápido.
+-       
+-       3. Aspectos essenciais da distinção entre Síndrome de Frio e Síndrome de calor
+-       Os aspectos essenciais para distinguir as síndromes de calor e de frio englobam: aversão ao calor ou ao frio; sede aumentada ou diminuída (presente ou ausente); compleição; temperatura dos membros (frios ou aquecidos); urina e fezes; apresentação da língua e condição do pulso.
+-       
+-	Tabela 2 – Aspectos essenciais da distinção entre Síndromes de Frio e de Calor
+-
+-AspectoSíndrome de FrioSíndrome de CalorPreferência ou aversão a frio ou calorAversão ao frio Preferência pelo calorAversão ao calor
+-Preferência pelo frioSedeAusência de sedeSede aumentada, com preferência pelas bebidas friasCompleiçãoFace pálidaRubor facialMembrosFriosAquecidosUrina e fezesMicção volumosa com urina pouco concentrada
+-Fezes amolecidasUrina escassa e concentrada
+-Fezes secasLínguaPálida, saburra brancaVermelha, saburra amarelaPulsoLento ou tensoRápido
+-
+-       4. Relações entre as síndromes de Frio/Calor e Exterior/Interior
+-       Após distinguir as síndromes de frio e calor, outra análise ainda se faz necessária para distinguir: entre frio do exterior e calor do exterior ou entre frio do interior e calor do interior.
+-       Além disso, também pode haver casos como frio do exterior e calor do interior combinados, assim como pode haver calor do exterior e do interior concomitantemente.
+-       
+-a) Síndrome de Frio do Exterior
+-       A síndrome de frio do exterior refere-se à condição onde o frio patogênico invade a superfície corpórea.
+-       Manifestações clínicas: Muita aversão ao frio, pouca febre, cefaleia, corpo dolorido, ausência de transpiração, revestimento da língua fino e branco, pulso superficial e tenso.
+-       
+-       b) Síndrome de Calor do Exterior
+-       A síndrome de calor do exterior diz respeito às síndromes causadas por invasão da superfície corporal por calor patogênico.
+-       Manifestações clínicas: A síndrome de calor exterior se manifesta tipicamente por febre, leve aversão ao frio e ao vento, cefaleia, sede discreta, transpiração, ponta e bordas da língua vermelha, pulso superficial e rápido.
+-       
+-       c) Síndrome de Frio do Interior
+-       A síndrome de frio do interior é causada por ataque de frio patogênico nos Zang Fu ou por deficiência de Yang.
+-       Manifestações clínicas: Essa síndrome é caracterizada pela intolerância ao frio, membros frios, compleição pálida, paladar insípido, ausência de sede ou pouca sede com preferência por bebidas quentes, micção volumosa de urina clara, fezes amolecidas, língua pálida com revestimento branco e pulso profundo e lento.
+-       
+-       d) Síndrome de Calor do Interior
+-       A síndrome de calor do interior refere-se principalmente à transmissão do fator patogênico exógeno da superfície para o interior do corpo, à invasão dos Zang Fu por calor patogênico, à transformação de emoções em fogo, desenvolvendo sinais e sintomas caracterizados pelo excesso de calor do interior, ou pela deficiência do Yin.
+-       Manifestações clínicas: Febre, rubor facial, sede, preferência por bebidas frias, inquietude, loquacidade, urina escassa e concentrada (escura), constipação, língua vermelha com revestimento amarelo, pulso rápido.
+-       
+-       - Distinção entre Síndromes de Deficiência e de Excesso
+-       
+-       Deficiência e excesso são dois dos Oito Princípios que refletem o conflito entre os fatores patogênicos e o Qi vital (Zheng Qi ou Qi correto- resistência do organismo). A síndrome de deficiência é caracterizada pelo Zheng Qi deficiente, enquanto a de excesso se caracteriza pelo excesso de fatores patogênicos. 
+-       A diferenciação das síndromes de deficiência e excesso é decisiva para a escolha entre os métodos de tonificação ou de sedação no tratamento por acupuntura. As síndromes de deficiência requerem tonificação seja através da acupuntura, seja da moxibustão, que neste caso deve ser indicada predominantemente.
+-       No caso das síndromes de excesso, a acupuntura com método de sedação é a principal indicação, ficando a moxibustão em segundo plano.
+-       
+-       1. Síndrome de Deficiência 
+-       As síndromes de deficiência englobam todas as manifestações clínicas de deficiência relacionada à deficiência do Jing Qi, que incluem a debilidade do Yin, do Yang, do Qi e do Xue, do Jin Ye e dos Zang Fu. 
+-       Manifestações clínicas: 
+-       - A síndrome de deficiência de Yang manifesta-se pela compleição pálida, opaca ou macilenta, apatia, fadiga e debilidade, palpitação e respiração fraca, intolerância ao frio, membros frios, transpiração espontânea, língua espessa edemaciada, mole, pálida e/ou com marcas de dentes e pulso lento, fraco e/ou profundo.
+-       - Na deficiência de Yin com excesso relativo de Yang, a síndrome é caracterizada por disforia com sensação de calor nos cinco Xin, emagrecimento e rubor malar, boca e garganta secas, transpiração noturna, febre com inquietude, língua vermelha com revestimento escasso e pulso deficiente, fino e rápido.
+-
+-       2. Síndrome de Excesso
+-       A síndrome de excesso se refere de forma geral à agressão por fatores patogênicos exógenos ou por acúmulos de fatores patogênicos dentro do corpo. As manifestações clínicas demonstram grande variedade de fatores patogênicos e produtos patológicos. 
+-       Manifestações clínicas: Febre, distensão abdominal com dor à palpação, plenitude torácica, disforia, irritabilidade, perda de consciência e delírio, respiração ruidosa, expectoração abundante, constipação, disúria, língua com revestimento espesso e gorduroso ou pegajoso e pulso forte.
+-       
+-       
+-       
+-       3. Aspectos essenciais da distinção entre Síndrome de Deficiência e Síndrome de Excesso
+-       São essenciais para distinguir as síndromes de deficiência e excesso os seguintes aspectos: curso da doença, constituição, sintomas, apresentação da língua e a condição do pulso. 
+-       
+-       Tabela 3 – Aspectos essenciais da distinção entre Síndromes de Deficiência e de Excesso
+-       
+-AspectoSíndrome de DeficiênciaSíndrome de ExcessoCursoProlongado, crônico na maioria dos casosCurto, agudo na maioria dos casosConstituiçãoEmagrecidaFortePreferência porMelhora com aplicação de pressão, aversão ao frioAgravada com aplicação de pressão, aversão ao calorVozBaixa e fracaRuidosa, altaAspecto da línguaPálida, grande, moleÁspera, amarelada, pegajosaCondição do pulsoFracoForte       
+-       
+-       4. Relações entre as Síndromes de Deficiência, Excesso, Exterior, Interior, Frio e Calor
+-       Após a diferenciação entre as síndromes de deficiência e de excesso, uma análise subsequente deve ser feita para definir que combinação de síndromes está envolvida na doença.
+-       
+-       a) Síndrome de Deficiência do Exterior 
+-       As síndromes de deficiência do exterior são classificadas em dois tipos: uma é causada por vento patogênico e a outra é provocada por enfraquecimento interno.
+-       Manifestações clínicas:
+-       - A síndrome de deficiência do exterior por vento patogênico se manifesta em cefaléia, obstrução nasal, febre, transpiração, aversão ao vento, pulso superficial e mole. A síndrome de deficiência do exterior causada por vento tem uma patogenia exterior. O vento invade o meridiano Tai Yang, causando cefaléia e contratura cervical. O Yang Qi em excesso na superfície corporal causa febre. Quando, por ação do vento, perde-se o controle do fechamento dos poros, surge transpiração com aversão ao vento. Como o vento está localizado no exterior, isso origina pulso superficial e mole.
+-       - As manifestações da síndrome de deficiência do exterior por enfraquecimento interno são transpiração espontânea e frequente, resfriados de repetição, compleição pálida, respiração fraca, dispneia aos exercícios, lassidão, língua pálida com revestimento branco, pulso filiforme e fraco. A síndrome de enfraquecimento do interior é resultante da deficiência do Qi do Fei e do Qi do Pi. O Fei governa a pele e os pêlos e Pi controla os músculos. A deficiência de ambos acarreta enfraquecimento da função do Wei Qi na proteção do organismo contra a doença, o que contribui para o desenvolvimento da transpiração espontânea. O Wei Qi debilitado afeta a resistência do corpo, tornando o paciente suscetível a resfriados de repetição. A deficiência do Qi do Pi e do Fei é caracterizada por compleição pálida, respiração fraca, apatia e dispneia aos exercícios físicos. Língua pálida com revestimento branco e pulso filiforme são também características da deficiência de Qi.
+-       
+-       b) Síndrome de Excesso do Exterior
+-       A síndrome de excesso do exterior é a síndrome do exterior causada por um ataque de frio patogênico à superfície corporal.
+-       Manifestações clínicas: Aversão ao frio, febre, anidrose, cefaléia, polimialgia, pulso superficial e tenso.
+-       
+-       c) Síndrome de Deficiência do Interior
+-       A síndrome de deficiência do interior envolve enfraquecimento dos meridianos Zang Fu, Yin, Yang, Qi, Xue e Jin Ye. 
+-       
+-       d) Síndrome de Excesso do Interior
+-       A síndrome de excesso do interior envolve a patologia dos Zang Fu e dos meridianos, além de vários tipos de patógenos. 
+-       
+-       e) Síndrome de Frio por Deficiência (Deficiência - Frio)
+-       A síndrome de frio por deficiência tem como origem a deficiência interior do Yang Qi.
+-       Manifestações clínicas: Apatia, compleição pálida, intolerância ao frio, membros frios, dor abdominal, fezes amolecidas, urina clara e profusa, respiração fraca, língua pálida e mole, pulso profundo, lento e fraco.
+-       
+-       f) Síndrome de Calor por Deficiência (Deficiência - Calor)
+-       A síndrome de calor por deficiência indica uma doença por deficiência de Yin no interior.
+-       Manifestações clínicas: Emagrecimento, calor nos cinco Xin, febre com inquietude, transpiração noturna, rubor malar, boca e/ou garganta secas, língua vermelha com revestimento escasso ou ausente e pulso filiforme e rápido.
+-       
+-       g) Síndrome de Frio por Excesso
+-       A síndrome de frio por excesso indica presença de doença desenvolvida por invasão do frio patogênico.
+-       Manifestações clínicas: Compleição pálida, membros frios, dor abdominal sensível à palpação, borborigmo, diarréia, urina clara e copiosa, língua com revestimento branco e úmido e pulso lento ou tenso.
+-       
+-       h) Síndrome de Calor por Excesso
+-       A síndrome do calor resulta da invasão do calor do exterior ao interior do corpo.
+-       Manifestações clínicas: Febre alta e desejo por frio, sede com preferência por líquidos frios, face vermelha e congestão conjuntival, agitação, vertigem e delírio, distensão e sensação de plenitude abdominal, dor à palpação, fezes secas, urina escura e escassa, língua vermelha com revestimento seco e amarelo e pulso cheio, escorregadio, rápido e/ou forte.
+-       
+-       - Distinção entre Síndromes de acordo com Yin e Yang
+-       
+-       Entre os oito princípios gerais, Yin e Yang são os mais importantes, e podem ser utilizados na classificação de todas as síndromes. A natureza da doença, seus sinais e sintomas clínicos podem ser classificados em Yin ou Yang. 
+-       
+-       1. Síndrome Yin
+-       As síndromes com características Yin são chamadas de síndromes Yin. Incluem a síndrome do interior, a síndrome de frio e a síndrome de deficiência.
+-       Manifestações clínicas: Compleição sem brilho, apatia, sensação de corpo pesado, tendência a aconchegar-se na cama, intolerância ao frio, membros frios, fadiga, voz fraca e tímida, diminuição de paladar e pouca sede, urina clara e abundante, diarreia, língua espessa, tenra e pálida, pulso profundo, lento e fraco ou irregular e filiforme.
+-       
+-       
+-       2. Síndrome Yang
+-       As síndromes com características Yang são chamadas síndromes Yang. Estas incluem a síndrome do exterior, a síndrome de calor e a síndrome de excesso.
+-       Manifestações clínicas: Febre, irritação, inquietude, voz alta, fala ininteligível, respiração ruidosa, sede e desejo por líquidos frios, constipação, urina escura e escassa, língua vermelha e escura com espículas e revestimento amarelo, pulso rápido, flutuante, cheio, escorregadio ou forte.
+-       
+-       3. Aspectos essenciais da distinção entre Síndrome Yin e Síndrome Yang
+-       
+-       Tabela 4 - Aspectos essenciais para distinguir a síndrome Yin da síndrome Yang, organizados de acordo com os quatro métodos diagnósticos.
+-       
+-DiagnósticoSíndrome YinSíndrome YangInspeçãoCompleição pálida, escura e sem brilho, tendência a encolher-se no leito, fadiga, apatia, língua espessa, mole e pálida com revestimento úmido e viscosoRubor facial, febre, preferência por frio, inquietude, boca e lábios secos, língua de cor vermelha intensa, com espículas e revestimento amareloAuscultaVoz baixa e tímida, fala tensa e respiração fracaVoz grossa e rouca, disforia, fala ativa, loquacidade, delírio, respiração ruidosaAnamneseFezes fétidas, ingestão reduzida de alimentos, redução do paladar, ausência de sede, preferência por líquidos quentes, urina copiosa e claraFezes secas com odor peculiar fétido, pouco apetite, boca seca, sede extrema com desejo de líquidos frios, urina escassa e escuraPalpação e pulsoDor abdominal que melhora com pressão, sensação de frio generalizada, pés frios, pulso profundo, filiforme e/ou irregular e pulso lento e fracoDor abdominal com aversão que piora à palpação, febre com pés quentes e pulso flutuante, cheio, rápido, deslizante, escorregadio ou forte       
+-       
+-       4. Depleção de Yin e depleção de Yang.
+-       A depleção do Yin e/ou do Yang é considerada uma síndrome extremamente perigosa. Tais condições são geralmente causadas por febre alta com sudorese profusa, vômitos em grande quantidade ou hemorragia intensa.
+-       A depleção de Yin ou Yang se manifesta em diferentes quantidades e tipos de sudorese. A sudorese causada pela depleção de Yin não é somente quente e viscosa, mas também acompanhada de febre, extremidades quentes, pulso filiforme, rápido e fraco e outros sintomas e sinais de calor por deficiência devido à exaustão dos Jin Ye.
+-       A depleção do Yang se manifesta em sudorese fria, profusa, insípida e aquosa, acompanhada por frieza do corpo e das extremidades, apatia e pulso quase imperceptível. 
+-       
+-       
+-       
+-       
+-       DIFERENCIAÇÃO DAS SÍNDROMES DE ACORDO COM AS CARACTERÍSTICAS DOS FATORES PATOGÊNICOS
+-    
+-       A diferenciação deve ser realizada por meio de uma análise geral dos sinais e sintomas de acordo com as características das doenças originadas pelos vários fatores patogênicos. Essa abordagem é a diferenciação das síndromes de acordo com as características dos fatores patogênicos. Os fatores patogênicos podem ser classificados segundo quatro aspectos: 
+-       a) as seis condições climáticas anormais; 
+-       b) as sete emoções; 
+-       c) dieta imprópria e desgaste excessivo (estresse); 
+-       d) lesões por trauma.
+-       
+-A. Síndromes devido aos seis fatores patogênicos exógenos
+-       
+-       1. Síndrome devido ao Vento 
+-       Manifestações clínicas: Febre, aversão ao vento, cefaleia, transpiração, tosse, obstrução nasal, coriza, língua com revestimento fino e branco, pulso superficial e lento, prurido na pele.
+-       
+-       2. Síndrome devido ao Frio 
+-       Manifestações clínicas: Aversão ao frio, febre, anidrose, cefaléia, mialgia, língua com revestimento fino e branco, pulso superficial e tenso ou frio e dor nas articulações com enrijecimento.
+-       
+-       3. Síndrome devido ao Calor de Verão 
+-       
+-       a)  Calor de verão
+-       Manifestações clínicas: Febre com aversão ao calor, vertigem, sudorese, sede, urina concentrada, língua vermelha com revestimento branco ou amarelo, pulso rápido e fraco.
+-       
+-       b) Insolação
+-       Manifestações clínicas: Febre, obnubilação, síncope, sudorese profusa e contínua, podendo chegar à perda de consciência, língua seca e de cor vermelha intensa, pulso mole e rápido.
+-       
+-       4. Síndrome devido à Umidade 
+-       Manifestações clínicas: Sensação de peso na cabeça, como se estivesse enfaixada, dolorimento e cansaço nos quatro membros, dor em peso nas articulações, com dificuldade de flexioná-las e estendê-las.
+-       
+-       5. Síndrome devido à Secura 
+-       Manifestações clínicas: Febre, aversão moderada ao vento e ao frio, cefaleia, anidrose ou pouca transpiração, sede, secura no nariz e na garganta, tosse seca com expectoração escassa, revestimento da língua seco e branco ou amarelo, pulso superficial ou superficial e rápido.
+-       
+-       6. Síndrome devido ao Fogo (e Calor) 
+-       Manifestações clínicas: Inicialmente, as manifestações incluem a febre, aversão moderada ao frio e ao vento, cefaléia, dor na garganta, boca seca e sede. Tardiamente, a febre se torna alta e a sede mais intensa. Quando o calor invade o sistema Ying (nutrição) e o Xue, acarreta inquietude e insônia, e eventualmente também hemorragia, como hematêmese ou epistaxe.
+-       
+-       
+-       
+-B. Síndromes devido às sete emoções 
+-
+-       As sete emoções são: alegria, raiva, melancolia, preocupação, pesar (tristeza), medo e terror (choque). As síndromes decorrentes das sete emoções se manifestam como doenças devido à lesão interna. De forma genérica, as sete emoções são a resposta do organismo e da mente aos estímulos externos. Se a emoção ocorre em um nível normal da atividade mental, nenhuma doença será causada. Somente um distúrbio emocional repentino, forte e/ou persistente, pode afetar a fisiologia do corpo humano e ocasionar distúrbios do Qi, do Xue e dos Zang Fu, que originam as doenças.
+-       De acordo com a observação clínica, as doenças causadas pelas sete emoções afetam, na maioria dos casos, o Xin, o Gan e o Pi. Se as sete emoções afetam o Xin, surgem palpitação, insônia e/ou excesso de sonhos, inquietude, torpor, choro sem motivos, riso e mania.
+-       Quando as sete emoções atacam o Gan, ocorre depressão, irritabilidade, dor em distensão nos hipocôndrios, eructação, suspiros, sensação de corpo estranho na garganta e, nas mulheres especificamente, menstruação irregular e dor em distensão nas mamas.
+-       Se as sete emoções atacam o Pi, ocorre diminuição do apetite, dor e distensão abdominal e distúrbios na defecação.
+-       
+-C. Síndromes devido à dieta imprópria e ao desgaste excessivo (Estresse)
+-
+-       A diferenciação das síndromes devido à lesão interna por dieta imprópria, desgaste excessivo ou atividade sexual excessiva pode ser realizada de acordo com os sinais e sintomas e a história clínica.
+-       
+-       1. Síndrome devido à lesão por dieta imprópria
+-       Manifestações clínicas: Dor abdominal, vômito, diarréia, diminuição do apetite, eructação fétida, regurgitação ácida, revestimento da língua espesso e pegajoso, pulso escorregadio e forte. A ingestão de alimentos estragados ou tóxicos pode provocar náusea, vômito, diarréia e/ou cólica intensa.
+-       
+-       2. Síndromes devido à lesão por excesso de esforço físico e por sedentarismo
+-       Manifestações clínicas: O excesso de esforço ou desgaste físico causa desânimo, lassidão, respiração fraca, indisposição para falar e diminuição do apetite. O sedentarismo, atividade física ausente ou muito reduzida, provoca obesidade, dificuldade nos movimentos, baixo condicionamento físico, fraqueza e flacidez dos membros.
+-       
+-3. Síndrome devido ao enfraquecimento por excesso sexual 
+-       Manifestações clínicas: A atividade sexual excessiva causa deficiência de Yin e Yang. A deficiência de Yin está associada a dor e cansaço na lombar e nos joelhos, lassidão, febre vespertina, sudorese noturna e polução noturna. A deficiência de Yang causa disfunção erétil, ejaculação precoce, extremidades frias, lombalgia e fraqueza das pernas e espermatorreia.
+-
+-D. Síndrome devido ao trauma
+-
+-       Frente ao trauma, além da avaliação local, deve-se considerar uma observação global de todo o corpo visando determinar a gravidade e o estágio de desenvolvimento da doença.
+-
+-       1. Síndrome devido a lesões por incisão, picada ou mordida de insetos ou animais
+-       Manifestações clínicas: Casos leves e moderados apresentam rubor local, edema e dor, enquanto os casos graves apresentam lesões inflamatórias com sangramento. O sangramento volumoso leva a compleição pálida, vertigem, visão borrada e outros sintomas de colapso em casos graves. Atacada pelo vento, a área lesada causa febre, trismo, opistótono e expressão com semblante de sorriso espástico. Lesão por mordida de um cão raivoso resulta em hidrofobia, fotofobia e fonofobia na fase de ataque da doença.
+-       
+-       2. Síndrome devido à lesão por trauma
+-       Manifestações clínicas: São bastante variáveis. Os casos moderados se manifestam em dor, dificuldade de movimentação com estase sanguínea local ou mesmo sangramento. Alguns casos graves com lesão óssea e do cérebro resultam em vertigem, desvio do conjugado dos olhos para cima, disfasia e síncope.
+-       
+-       DIFERENCIAÇÃO DAS SÍNDROMES DE QI E XUE DE ACORDO COM O CONCEITO DE QI E XUE 
+-       
+-       A. Diferenciação das síndromes de Qi
+-       
+-       Há muitos tipos de síndromes de Qi. Contudo, as mais comuns são classificadas Como deficiência de Qi, desmoronamento de Qi, estagnação de Qi e fluxo reverso de Qi.
+-       
+-       1. Deficiência de Qi
+-       Deficiência de Qi é a síndrome que ocorre quando a função dos Zang Fu está enfraquecida. É com frequência causada por doenças prolongadas (crônicas), desgaste excessivo e fraqueza resultante de idade avançada, entre outros fatores.
+-       Manifestações clínicas: Respiração curta e fraca, indisposição para falar, languidez, vertigem, visão borrada, transpiração espontânea. Todos os sintomas agravam-se ao esforço ou ao exercício físico. O pulso é fraco e a língua é pálida com revestimento branco.
+-       
+-       2. Desmoronamento do Qi
+-       O desmoronamento do Qi se refere a uma situação de tamanha deficiência do Qi que sua função e o movimento de ascensão são comprometidos, invertendo seu sentido normal e entrando em descensão.
+-       É uma evolução possível da deficiência de Qi ou da incapacidade de Pi de manter sua função de ascensão do Qi devido ao desgaste.
+-       Manifestações clínicas: Vertigem, visão turva ou borrada, respiração curta e fraca, lassidão, língua Pálida com revestimento branco, pulso fraco, distensão abdominal com sensação de peso (em queda, descendente), prolapso do reto ou prolapso de útero ou bexiga.
+-        
+-       3. Estagnação de Qi
+-       A estagnação de Qi surge da obstrução ou dificuldade no movimento funcional do Qi em alguma parte do corpo humano, ou em algum Zang Fu.
+-       Manifestações clínicas: Sensação de plenitude e distensão, dor em distensão, sensação local de distensão ou estufagem.
+-       
+-       4. Fluxo Reverso do Qi
+-       O fluxo reverso do Qi decorre dos distúrbios nos processos de ascensão e descensão. As manifestações clínicas incluem, na maioria das vezes, os sinais e sintomas do fluxo reverso de Qi do Fei, do Wei e do Gan.
+-       Manifestações clínicas: O fluxo reverso do Qi do Fei é caracterizado por tosse e asma; o do Wei por soluço, eructação, náusea e vômito; e o do Gan é marcado por cefaléia, vertigem, síncope e hematêmese.
+-       
+-       
+-       
+-       B. Diferenciação das síndromes do Xue
+-       
+-       As síndromes do Xue podem ser divididas em deficiência de Xue, estagnação de Xue, calor no Xue e frio no Xue.
+-       
+-       1. Deficiência de Xue
+-       A deficiência de Xue é em geral causada por perdas sanguíneas ou falhas na produção de Qi e Xue por deficiência de Pi e Wei. Também pode ser ocasionada por lesão interna pelas sete emoções, que provoca consumo de Yin e Xue.
+-       Manifestações clínicas: Compleição pálida, opaca ou amarelada, doentia, lábios pálidos, vertigem, visão borrada, palpitação, insônia, dormência nos membros, atraso menstrual, fluxo diminuído ou amenorreia, língua pálida, pulso fraco e filiforme.
+-       
+-       2. Estase de Xue
+-       A estase de Xue refere-se tanto ao Xue extravasado que não pode ser expelido ou eliminado rapidamente, ficando acumulado, quanto ao impedimento ou dificuldade do fluxo sanguíneo por qualquer motivo, com consequente bloqueio nos meridianos ou órgãos. Ambas as condições são consideradas estase de Xue. Com frequência, a estase de Xue resulta do acúmulo de frio, da estagnação de Qi, da deficiência de Qi e das lesões exteriores.
+-       Manifestações clínicas: Dor lancinante ou em pontada de localização fixa e bem definida e dor intensa à pressão. Massas abdominais, fluxo menstrual reduzido com coágulos ou amenorreia, língua púrpura escura, eventualmente com equimoses e petéquias, e pulso irregular.
+-       
+-       3. Calor no Xue
+-       Calor no Xue é uma síndrome causada pela presença de fogo e calor em excesso nos Zang Fu, afetando o Xue. Na maior parte dos casos, decorre de emoções excessivas, de excessos na ingestão alcoólica ou de raiva afetando o Gan.
+-       Manifestações clínicas: Hemoptise, hematêmese, hematúria, epistaxe, língua vermelha escura ou púrpura, pulso em corda e rápido.
+-
+-       4. Frio no Xue
+-       Os sinais e sintomas decorrentes do frio no Xue devem-se principalmente à estagnação de Qi e Xue, resultante do acúmulo do patógeno frio no Xue. 
+-       Manifestações clínicas: Dores nas mãos e pés, compleição púrpura escura, aversão ao frio e preferência por calor (este pode abrandar os sintomas). Dor no baixo ventre, língua com revestimento branco e pulso profundo, lento e irregular.
+-       
+-       
+-       C. Diferenciação das síndromes envolvendo Qi e Xue simultaneamente
+-       
+-       Qi e Xue promovem-se mutuamente, seja na formação e no desenvolvimento ou na função. Portanto, quando em situação de enfermidade, também influenciam um ao outro. Na clínica, distúrbios simultâneos de Qi e Xue são conhecidos como síndromes que envolvem Qi e Xue simultaneamente. As síndromes mais comuns são a estagnação conjunta de Qi e Xue, a estase de Xue devido à deficiência de Qi, a deficiência conjunta de Qi e Xue e a hemorragia por deficiência de Qi.
+-
+-       1. Estagnação conjunta de Qi e Xue
+-       A estagnação conjunta de Qi e Xue é causada pela estagnação de Qi, provocando a estase de Xue. Na maior parte dos casos a estagnação de Qi é ocasionada por frustração, que resulta em disfunção do Qi do Gan.
+-       Manifestações clínicas: Dor com sensação de plenitude, dor em distensão e migratória no tórax e nos hipocôndrios, irritabilidade, presença de massas palpáveis, dor lancinante piorando com palpação e, em mulheres, amenorreia, dismenorreia ou fluxo menstrual de cor púrpura escura com coágulos. Língua púrpura escura com petéquias e pulso áspero.
+-
+-       2. Estagnação de Xue por deficiência de Qi
+-       A estagnação de Xue resultante da deficiência de Qi é a síndrome caracterizada pela incapacidade de impulsionar adequadamente o Xue em função da deficiência de Qi. Em geral, é causada por doença crônica que acarreta deficiência de Qi. 
+-       Manifestações clínicas: Compleição pálida e escura, fadiga, respiração curta e cansada, indisposição para falar, dor fixa e lancinante (geralmente no tórax e hipocôndrios), dor fixa sensível à pressão, língua púrpura com petéquias, pulso profundo e áspero.
+-       
+-       3. Deficiência conjunta de Qi e Xue
+-       A deficiência conjunta de Qi e Xue se refere à síndrome onde a deficiência de Qi e a deficiência de Xue existem simultaneamente. Na maior parte dos casos é causada por doenças prolongadas e pela falha do Qi deficiente na produção de Xue, ou vice-versa.
+-       Manifestações clínicas: Respiração curta e fraca (cansada), indisposição para falar, fadiga, transpiração espontânea, compleição pálida e macilenta, palpitação, insônia, língua pálida e mole, pulso filiforme e fraco.
+-      
+-       4. Hemorragia por deficiência de Qi
+-       A hemorragia por deficiência de Qi caracteriza-se por sangramento devido à incapacidade do Qi deficiente de governar o Xue. Na maioria dos casos, decorre de doenças ou perdas sanguíneas crônicas que geram consumo e perda de Qi.
+-       Manifestações clínicas: Hematêmese, melena, equimoses, sangramento uterino, respiração curta e cansada, fadiga, compleição pálida e opaca, língua pálida, pulso filiforme e fraco.
+-       
+-D. Diferenciação das síndromes de acordo com Wei, Qi, Ying e Xue
+-       
+-       A diferenciação das síndromes de acordo com os conceitos de Wei, Qi, Ying e Xue é aplicada em especial para a diferenciação de enfermidades febris epidêmicas exógenas. Existem quatro tipos ou estágios: síndrome no estágio Wei, síndrome no estágio Qi, síndrome no estágio Ying e síndrome no estágio Xue.
+-       Wei refere-se ao Wei Qi, distribuído na parte exterior do corpo. Quando o fator patogênico invade o sistema Wei do corpo, o nível Wei, área superficial do corpo, é o primeiro a ser atacado. Se, ao invés de ser expelido, o patógeno ficar estagnado no nível Wei, poderá se mover para o interior, invadindo o segundo nível, isto é, o sistema Qi. Se o patógeno não for eliminado deste nível em virtude de uma deficiência do Qi e do Jin Ye, invadirá progressivamente o nível seguinte, afetando o sistema Ying. Se o patógeno continuar na sua progressão, envolverá então o sistema do Xue, o quarto estágio. Assim sendo, a diferenciação das síndromes de Wei, Qi, Ying e Xue não é somente um sumário dos quatro diferentes tipos de síndromes relacionadas às doenças febris sazonais, mas também uma indicação dos quatro diferentes estágios (graus de gravidade) das mudanças patológicas no desenvolvimento dessas enfermidades.
+-       A síndrome no estágio Wei é uma síndrome de calor do exterior, envolvendo o Fei e a pele; no estágio Qi, é uma síndrome do interior atingindo o tórax, o diafragma, o Wei, o Da Chang e o Xiao Chang. A síndrome no estágio Ying é a invasão do sistema Ying pelo calor, causando distúrbios no Xin e no Xin Bao. Por fim, a síndrome no estágio Xue diz respeito à invasão do Gan e do Shen pelo calor, caracterizada pelo consumo exagerado do Xue, sangramento e agitação pelo vento do Gan.
+-       
+-       
+-       1. Síndrome no estágio Wei
+-       A síndrome no estágio Wei refere-se a uma síndrome do exterior. Indica uma invasão inicial pelo patógeno na superfície do corpo, causando disfunção do Wei Qi. Como o Fei governa a pele e os pêlos e o Wei Qi circula na superfície do corpo, mantendo ligação com a função do Fei, a invasão pelo calor no sistema Wei tem manifestações relacionadas ao Fei.
+-       Manifestações clínicas: Febre, aversão leve ao vento e ao frio, ponta e bordas da língua vermelhas, pulso superficial e rápido, cefaléia, boca seca com sede moderada, tosse e inflamação na garganta.
+-       
+-       2. Síndromes no estágio Qi
+-       As síndromes no estágio Qi são síndromes de calor do interior decorrentes da invasão dos Zang Fu pelo calor. Ocorrem em razão do conflito intenso entre o Qi vital pleno e o fator patogênico excessivo, o qual resulta em hiperatividade do Yang. As síndromes incluídas são: estagnação de calor no Fei, distúrbios pelo calor no tórax e diafragma, calor no Wei, acúmulo de calor em Da Chang e Xiao Chang, estagnação de calor em Dan, e calor umidade no Pi e Wei.
+-       Manifestações clínicas: Febre alta com aversão ao calor, língua vermelha com revestimento amarelado e pulso rápido. Essas síndromes são acompanhadas de irritabilidade, sede, urina concentrada de cor amarela forte ou tosse e dispneia, dor no tórax, expectoração de catarro espesso, viscoso e amarelado. Podem também apresentar disforia e inquietude. Em outros casos apresentam febre alta, sede intensa com preferência por bebidas frias, transpiração profusa e pulso cheio, ou febre vespertina e constipação ou diarreia líquida, dor abdominal com plenitude local, revestimento da língua seco amarelado, ou algumas vezes preto e espiculado; pulso profundo, forte e rápido.
+-       
+-       3. Síndrome no estágio Ying
+-       A síndrome no estágio Ying indica calor do interior, que pode ser de natureza grave. É caracterizada pela lesão do estágio Yin e distúrbios da mente.
+-       Manifestações clínicas; Febre com picos noturnos, sede fraca, irritabilidade ou delírio em casos graves, leves erupções sanguíneas na face, língua com coloração vermelha escura, pulso filiforme e rápido.
+-       
+-       4. Síndrome no estágio Xue
+-       A síndrome no estágio Xue marca uma etapa crítica na qual os patógenos foram transmitidos profundamente ao interior do sistema Xue. Caracteriza-se por consumo e lesão do Xue, sangramento, lesão de Yin e agitação do vento.
+-       Manifestações clínicas: Febre alta, irascibilidade e delírio, erupções sanguíneas, hematêmese, epistaxe, fezes com sangue, hematúria, língua vermelha escura, ou inconsciência, convulsões clônicas, espasmo cervical, opistótono, desvio conjugado dos olhos para cima, trismo, febre baixa por longos períodos, febre durante a noite aliviando pela manhã, disforia e sensação de aquecimento nos cinco
+-Xin, boca e garganta secas, fadiga, língua seca ou com pouca umidade, emagrecimento, lábios secos, gengivas secas, olhos encovados e visão borrada, torpor, rubor malar, tremor das mãos e pés e pulso fraco, rápido ou filiforme.
+-       
+-       
+-       DIFERENCIAÇÃO DAS SÍNDROMES DE ACORDO COM A TEORIA DOS ZANG FU
+-       
+-       A diferenciação das síndromes de acordo com a Teoria dos Zang Fu é aplicada para analisar de forma geral os sinais e sintomas de acordo com as condições fisiológicas e patológicas dos Zang Fu, objetivando assim inferir o processo de patogênese e determinar o local das mudanças patológicas. Embora existam vários métodos de diferenciação de síndromes, cada qual com características próprias, é necessário considerar os Zang Fu para identificar precisamente a localização da doença. Por exemplo, a síndrome por deficiência de Yin, segundo a diferenciação das condições patológicas por meio do "Método dos Oito Princípios", pode ser dividida em diferentes tipos de deficiência de Yin relacionados com os órgãos envolvidos, como as deficiências de Yin do Xin, do Fei, do Gan, do Shen e do Wei.
+-       Zang e Fu estão relacionados entre si, assim como todos os órgãos e tecidos do organismo. Dessa forma, quando a diferenciação das síndromes de acordo com a Teoria dos Zang Fu é conduzida, faz-se necessário ter uma visão holística, não considerando somente as mudanças patológicas de um órgão individualmente, mas observando-se as inter-relações entre os Zang Fu e suas interações mútuas. A diferenciação das síndromes de acordo com a Teoria dos Zang Fu engloba três partes: diferenciação das síndromes dos Zang, diferenciação das síndromes dos Fu e diferenciação das síndromes envolvendo ambos, Zang e Fu. A análise das síndromes dos Zang é o principal método usado na diferenciação das síndromes. 
+-       
+-A. Diferenciação das síndromes do Xin e do Xiao Chang
+-       
+-       As síndromes do Xin são classificadas em dois tipos: deficiência e excesso. 
+-       As síndromes de deficiência usualmente decorrem de doenças crônicas, deficiência inata, preocupação e tristeza, que causam a deficiência do Qi do Xin e do Yang do Xin, bem como do consumo de seu Yin e/ou de seu Xue. As síndromes de excesso resultam da estagnação de mucosidade, distúrbio pelo fogo, acúmulo de frio, estase de Xue e estagnação de Qi. 
+-       Os sintomas comuns do Xin são palpitação, taquicardia funcional, desconforto torácico ou precordialgia, insônia, excesso de sonhos, enfraquecimento da memória, delírio, gagueira, afasia e inibição da fala, além de transtornos psiquiátricos.
+-       Indícios de patologia do intestino delgado incluem: distúrbios intestinais, borborigmo e problemas de clareza mental e discernimento.
+-       Padrões de desarmonia do Zang Fu – vide literatura indicada.
+-       
+-B. Diferenciação das Síndromes do Fei e do Da Chang
+-       
+-       As síndromes do Fei são classificadas em síndromes de excesso e de deficiência. As síndromes de deficiência incluem em geral as deficiências de Qi e Yin. As síndromes de excesso são muitas vezes decorrentes da agressão por fatores patogênicos externos como o vento, o frio, a secura e o calor ou o acúmulo de mucosidade-umidade no Fei.
+-       Fazem parte das síndromes do Da Chang o calor umidade no Da Chang, a deficiência de fluidos e a deficiência do Yang Qi. 
+-       Os sintomas comuns das doenças do Fei são tosse, asma, dispneia, dor torácica, sensação de aperto no peito, propensão a resfriados comuns, sensibilidade ao frio, alergias, mãos frias, secreção de suor comprometida (espontânea), pele seca, doenças do nariz e dos seios paranasais, voz baixa, doenças psicossomáticas decorrentes do sofrimento e de separação, incapacidade de deixar ir e de começar de novo e tristeza.
+-       As disfunções do transporte no Da Chang se manifestam principalmente em diarreia ou constipação, além de dor abdominal.
+-       Padrões de desarmonia do Zang Fu – vide literatura indicada.
+-       
+-C. Diferenciação das síndromes do Pi e do Wei
+-	
+-       As Síndromes do Pi e do Wei podem ser classificadas em síndromes de frio, calor, deficiência e excesso. 
+-       As síndromes mais frequentes do Pi são deficiência do Yang Qi, disfunção no transporte e transformação, umidade e mucosidade do interior e falha em controlar o Xue. Sinais de desarmonia incluem distensão abdominal, diarreia ou constipação, apetite comprometido, fadiga, exaustão, preocupação, pensamento compulsivo, melancolia, tendência a ser taciturno, falta de concentração, pouca capacidade para reconhecer e aceitar mudanças, produção de muco, edema, ascite, ptose e transtornos hemorrágicos.
+-       As mais frequentes do Wei são disfunção em receber e digerir os alimentos e ascensão reversa do Qi do Wei. Sinais de desarmonia incluem fadiga, fraqueza dos membros, queixas digestivas (desconforto ou dor epigástrica, náusea, vômito, regurgitação, halitose) e alteração do apetite e paladar.
+-       Padrões de desarmonia do Zang Fu – vide literatura indicada.
+-       
+-D. Diferenciação das síndromes do Gan e do Dan
+-
+-       As síndromes do Gan são divididas em síndrome de excesso e de deficiência. As de deficiência usualmente decorrem da deficiência do Yin e/ou do Xue do Gan. As de excesso são causadas na maioria das vezes, pela estagnação do Qi do Gan, fogo em excesso e invasão pelo frio ou umidade calor.
+-       Os sinais e sintomas comuns das doenças do Gan são: dor com distensão nos hipocôndrios e no baixo ventre, dor migratória, irritabilidade, raiva, fúria, agressão, tendência a ser injusto consigo mesmo e com os outros, autopiedade, vertigem, tremor nos membros e corpo, espasmos musculares, tensão muscular, unhas frágeis, convulsão nas mãos e pés, doenças oftalmológicas, menstruação irregular, dismenorreia, TPM e dor e sensação de distensão nos testículos.
+-       As síndromes de Dan são geralmente marcadas pelo gosto amargo na boca, dor no hipocôndrio, pele amarelada, insônia e dificuldade de tomar decisões.
+-       Padrões de desarmonia do Zang Fu – vide literatura indicada.
+-       
+-       E. Diferenciação das síndromes do Shen e do Pangguang
+-       
+-       Tanto o Yin quanto o Yang primários são armazenados no Shen e são a fonte de vida e energia para as atividades fisiológicas dos Zang Fu. Uma vez afetados o Yin ou Yang do Shen, todos os Zang Fu serão afetados. 
+-       Desta forma, é mais comum que as doenças do Shen se manifestam como síndromes de deficiência: deficiência do Yang do Shen; deficiência do Yin do Shen; deficiência do Jing do Shen; incapacidade do Shen de controlar e incapacidade do Shen de manter a inspiração normal. Os sinais e sintomas comuns das doenças do Shen são: desenvolvimento tardio na criança, lassidão e dor nos joelhos e na região lombar, tinidos, diminuição da audição, embranquecimento dos cabelos e alopecia, perda precoce dos dentes, disfunção erétil, emissão seminal anormal, oligospermia e esterilidade, menstruação escassa, amenorreia, tendência ao aborto, edema, falta de vitalidade e pouca força de vontade, exaustão mental, desconfiança, falta de paciência.
+-       A doença do Pangguang se manifesta frequentemente como Síndrome de Umidade-Calor. Os sinais e sintomas comuns da doença do Pangguang são: aumento da frequência e urgência urinária, disúria, enurese e incontinência urinária.
+-       Padrões de desarmonia do Zang Fu – vide literatura indicada.
+-       
+-       
+-F. Diferenciação das síndromes complexas dos órgãos
+-
+-       Na fisiologia, os Zang Fu estão intimamente relacionados. Assim sendo, também se afetam mutuamente durante os processos patológicos. Algumas vezes, a doença de um órgão envolverá outros órgãos. As doenças de dois ou mais órgãos podem ocorrer em sucessão ou simultaneamente. A isso denominamos Síndromes Complexas dos Zang Fu – vide literatura indicada.
+-       
+-       
+-
++﻿ROTEIRO PARA DIAGNÓSTICO NA MTC
++
++
++TEORIA DOS 8 PRINCÍPIOS
++
++A Teoria dos "Oito Princípios" está relacionada a quatro pares de mudanças patológicas: exterior e interior, calor e frio, excesso e deficiência, Yang e Yin. A diferenciação das síndromes de acordo com os oito princípios é o método pelo qual a localização e a natureza das mudanças patológicas, bem como a condição do Qi Vital e dos fatores patogênicos no curso de uma doença, podem ser sumarizados e explicadas, através do emprego de uma ampla análise dos sinais e sintomas colhidos através dos "Quatro Métodos Diagnósticos".
++As manifestações de uma doença, mesmo complexa, podem ser sintetizadas de acordo com os oito princípios. Dessa forma, a localização da enfermidade pode ser discriminada entre exterior e interior; a condição patogênica ou a natureza da doença pode ser classificada em calor e frio; a morbidade pode ser definida através do conceito de excesso, quando o fator patogênico é forte, ou de deficiência, quando o Qi vital está deficiente. Entre os oito princípios, o par Yin e Yang é o mais geral e engloba os outros seis, considerando-se que o exterior, calor e excesso são Yang e interior, frio e deficiência são Yin. Neste sentido, o princípio "Yin e Yang" é a compilação dos "Oito Princípios". 
++Resumindo, através da diferenciação das síndromes de acordo com os oito princípios, as manifestações clínicas complexas podem ser sintetizadas e classificadas nestes quatro pares principais: exterior e/ou interior, frio e/ou calor, excesso e/ou deficiência, bem como Yin e Yang, visando um maior esclarecimento sobre a enfermidade, determinar seus principais pontos, predizer a tendência de sua evolução e, finalmente, orientar o tratamento.
++
++- Síndrome do Exterior e Síndrome do Interior 
++
++A diferenciação entre síndrome do exterior e do interior é um método para evidenciar a localização da mudança patológica e mensurar a severidade da doença. Falando genericamente, uma doença deve ser classificada como "síndrome do exterior" quando os fatores patogênicos afetam estruturas de localização superficial (da pele até a musculatura estriada). Por outro lado, uma doença é considerada "síndrome do interior" se for resultante de mudanças patológicas localizadas internamente, como nos Zang Fu, nos vasos sanguíneos mais profundos ou na medula óssea. Em relação à acupuntura, a inserção superficial com retirada rápida da agulha é indicada para doenças classificadas como síndromes do exterior, enquanto a inserção profunda com retenção prolongada das agulhas se adéqua àquelas definidas como síndromes do interior.
++
++1. Síndrome do Exterior
++A síndrome do exterior é indicada pelos sinais e sintomas decorrentes da invasão da superfície corporal por fatores patogênicos exógenos através da pele, da boca ou do nariz. É usualmente encontrada no estágio inicial das doenças febris de origem externa e se caracteriza, em geral, por um ataque súbito com evolução de curta duração.
++Manifestações clínicas: Febre e aversão ao frio (ou ao vento), cefaléia e dolorimento generalizado no corpo (polimialgia), revestimento fino e branco da língua, pulso superficial, acompanhado de obstrução nasal com coriza, dor e/ou prurido na garganta e tosse.
++
++2. Síndrome do Interior
++A síndrome do interior é indicada pelos sinais físicos e sintomas da doença localizada no interior do corpo (Zang Fu, Qi, Xue e medula óssea). Habitualmente, é vista no estágio intermediário ou tardio das doenças febris, bem como em doenças complexas devido ao enfraquecimento e/ou lesão interna.
++Manifestações clínicas: As causas da síndrome do interior são complexas e variáveis. As possibilidades de sua localização são múltiplas e, portanto, suas manifestações são muito variadas. Em geral, a síndrome do interior engloba todas as doenças, exceto as da síndrome do exterior. 
++
++3. Aspectos essenciais da distinção entre Síndrome do Interior e Síndrome do Exterior 
++Para distinguir a síndrome do exterior da síndrome do interior, é necessário interrogar o doente a respeito da história de sua doença, observar se a síndrome se deve ao frio ou ao calor e avaliar o revestimento da língua e a condição do pulso.
++
++Tabela 1 - Aspectos essenciais da distinção entre Síndrome do Interior e Síndrome do Exterior
++
++Aspectos
++Síndrome do Exterior
++Síndrome do Interior
++Curso da doença
++Ataque recente e curso breve
++Crônico e curso longo
++Frio ou calor
++Febre com aversão ao frio
++Febre sem aversão ao frio ou frio sem febre
++Revestimento da língua
++Revestimento normal, eventualmente com a ponta e/ou bordas vermelhas
++Manifestações anormais na língua podem ser encontradas (corpo e saburra)
++Condição do pulso
++Pulso superficial
++Pulso profundo
++
++
++- Diferenciação entre síndromes de Frio e de Calor
++
++Entre as síndromes dos oito princípios, calor e frio analisam e diferenciam a natureza da condição patológica. As síndromes de frio e calor revelam os estados de excesso e deficiência de Yin e Yang no corpo. Excesso de Yin ou deficiência de Yang levam à síndrome de frio; excesso de Yang ou deficiência de Yin levam à síndrome de calor. 
++A síndrome de frio requer retenção prolongada das agulhas ou tratamento com agulhas aquecidas. A moxibustão pode ser utilizada. 
++No caso da síndrome de calor, as agulhas filiformes são aplicadas superficialmente, sendo rapidamente retiradas, ou aplicação de sangria. Na maior parte dos casos a moxibustão não é indicada.
++
++1. Síndrome de Frio
++As síndromes de frio são normalmente causadas por ataque pelo frio patogênico ou por deficiência de Yang com excesso de Yin. São classificadas como síndromes de frio do exterior, frio do interior, frio por deficiência e frio por excesso. 
++Os sinais e sintomas diferem conforme os vários tipos de síndrome de frio (excesso, deficiência, exterior, interior). Geralmente, caracteriza-se por aversão ao frio e preferência por calor, compleição pálida, membros frios, tendência a se encolher no leito, diminuição do paladar ou paladar insípido, ausência de sede, saliva fluida, coriza líquida, micção volumosa com urina pouco concentrada de cor clara, fezes amolecidas, língua pálida com revestimento branco úmido e pulso profundo, lento ou tenso.
++2. Síndrome de Calor
++As síndromes de calor são causadas pelo calor patogênico ou pelo Yang preponderante por deficiência de Yin que provocam hiperatividade emocional no organismo. A síndrome de calor inclui as doenças secundárias a calor do exterior, calor do interior, calor por deficiência e calor por excesso. Os sinais e sintomas diferem conforme os vários tipos de síndromes de calor. Os mais comuns são a aversão ao calor e preferência pelo frio, sede com desejo de bebidas frias, rubor facial e ocular disforia, irritabilidade, urina escassa e concentrada, constipação, expectoração espessa e amarela, descarga nasal espessa e amarela, hematêmese, epistaxe, língua vermelha com revestimento amarelo e seco e pulso rápido.
++
++3. Aspectos essenciais da distinção entre Síndrome de Frio e Síndrome de calor
++Os aspectos essenciais para distinguir as síndromes de calor e de frio englobam: aversão ao calor ou ao frio; sede aumentada ou diminuída (presente ou ausente); compleição; temperatura dos membros (frios ou aquecidos); urina e fezes; apresentação da língua e condição do pulso.
++
++	Tabela 2 – Aspectos essenciais da distinção entre Síndromes de Frio e de Calor
++
++Aspecto
++Síndrome de Frio
++Síndrome de Calor
++Preferência ou aversão a frio ou calor
++Aversão ao frio Preferência pelo calor
++Aversão ao calor
++Preferência pelo frio
++Sede
++Ausência de sede
++Sede aumentada, com preferência pelas bebidas frias
++Compleição
++Face pálida
++Rubor facial
++Membros
++Frios
++Aquecidos
++Urina e fezes
++Micção volumosa com urina pouco concentrada
++Fezes amolecidas
++Urina escassa e concentrada
++Fezes secas
++Língua
++Pálida, saburra branca
++Vermelha, saburra amarela
++Pulso
++Lento ou tenso
++Rápido
++
++
++4. Relações entre as síndromes de Frio/Calor e Exterior/Interior
++Após distinguir as síndromes de frio e calor, outra análise ainda se faz necessária para distinguir: entre frio do exterior e calor do exterior ou entre frio do interior e calor do interior.
++Além disso, também pode haver casos como frio do exterior e calor do interior combinados, assim como pode haver calor do exterior e do interior concomitantemente.
++
++    a) Síndrome de Frio do Exterior
++A síndrome de frio do exterior refere-se à condição onde o frio patogênico invade a superfície corpórea.
++Manifestações clínicas: Muita aversão ao frio, pouca febre, cefaleia, corpo dolorido, ausência de transpiração, revestimento da língua fino e branco, pulso superficial e tenso.
++
++b) Síndrome de Calor do Exterior
++A síndrome de calor do exterior diz respeito às síndromes causadas por invasão da superfície corporal por calor patogênico.
++Manifestações clínicas: A síndrome de calor exterior se manifesta tipicamente por febre, leve aversão ao frio e ao vento, cefaleia, sede discreta, transpiração, ponta e bordas da língua vermelha, pulso superficial e rápido.
++
++c) Síndrome de Frio do Interior
++A síndrome de frio do interior é causada por ataque de frio patogênico nos Zang Fu ou por deficiência de Yang.
++Manifestações clínicas: Essa síndrome é caracterizada pela intolerância ao frio, membros frios, compleição pálida, paladar insípido, ausência de sede ou pouca sede com preferência por bebidas quentes, micção volumosa de urina clara, fezes amolecidas, língua pálida com revestimento branco e pulso profundo e lento.
++
++d) Síndrome de Calor do Interior
++A síndrome de calor do interior refere-se principalmente à transmissão do fator patogênico exógeno da superfície para o interior do corpo, à invasão dos Zang Fu por calor patogênico, à transformação de emoções em fogo, desenvolvendo sinais e sintomas caracterizados pelo excesso de calor do interior, ou pela deficiência do Yin.
++Manifestações clínicas: Febre, rubor facial, sede, preferência por bebidas frias, inquietude, loquacidade, urina escassa e concentrada (escura), constipação, língua vermelha com revestimento amarelo, pulso rápido.
++
++- Distinção entre Síndromes de Deficiência e de Excesso
++
++Deficiência e excesso são dois dos Oito Princípios que refletem o conflito entre os fatores patogênicos e o Qi vital (Zheng Qi ou Qi correto- resistência do organismo). A síndrome de deficiência é caracterizada pelo Zheng Qi deficiente, enquanto a de excesso se caracteriza pelo excesso de fatores patogênicos. 
++A diferenciação das síndromes de deficiência e excesso é decisiva para a escolha entre os métodos de tonificação ou de sedação no tratamento por acupuntura. As síndromes de deficiência requerem tonificação seja através da acupuntura, seja da moxibustão, que neste caso deve ser indicada predominantemente.
++No caso das síndromes de excesso, a acupuntura com método de sedação é a principal indicação, ficando a moxibustão em segundo plano.
++
++1. Síndrome de Deficiência 
++As síndromes de deficiência englobam todas as manifestações clínicas de deficiência relacionada à deficiência do Jing Qi, que incluem a debilidade do Yin, do Yang, do Qi e do Xue, do Jin Ye e dos Zang Fu. 
++Manifestações clínicas: 
++- A síndrome de deficiência de Yang manifesta-se pela compleição pálida, opaca ou macilenta, apatia, fadiga e debilidade, palpitação e respiração fraca, intolerância ao frio, membros frios, transpiração espontânea, língua espessa edemaciada, mole, pálida e/ou com marcas de dentes e pulso lento, fraco e/ou profundo.
++- Na deficiência de Yin com excesso relativo de Yang, a síndrome é caracterizada por disforia com sensação de calor nos cinco Xin, emagrecimento e rubor malar, boca e garganta secas, transpiração noturna, febre com inquietude, língua vermelha com revestimento escasso e pulso deficiente, fino e rápido.
++
++2. Síndrome de Excesso
++A síndrome de excesso se refere de forma geral à agressão por fatores patogênicos exógenos ou por acúmulos de fatores patogênicos dentro do corpo. As manifestações clínicas demonstram grande variedade de fatores patogênicos e produtos patológicos. 
++Manifestações clínicas: Febre, distensão abdominal com dor à palpação, plenitude torácica, disforia, irritabilidade, perda de consciência e delírio, respiração ruidosa, expectoração abundante, constipação, disúria, língua com revestimento espesso e gorduroso ou pegajoso e pulso forte.
++
++
++
++3. Aspectos essenciais da distinção entre Síndrome de Deficiência e Síndrome de Excesso
++São essenciais para distinguir as síndromes de deficiência e excesso os seguintes aspectos: curso da doença, constituição, sintomas, apresentação da língua e a condição do pulso. 
++
++Tabela 3 – Aspectos essenciais da distinção entre Síndromes de Deficiência e de Excesso
++
++Aspecto
++Síndrome de Deficiência
++Síndrome de Excesso
++Curso
++Prolongado, crônico na maioria dos casos
++Curto, agudo na maioria dos casos
++Constituição
++Emagrecida
++Forte
++Preferência por
++Melhora com aplicação de pressão, aversão ao frio
++Agravada com aplicação de pressão, aversão ao calor
++Voz
++Baixa e fraca
++Ruidosa, alta
++Aspecto da língua
++Pálida, grande, mole
++Áspera, amarelada, pegajosa
++Condição do pulso
++Fraco
++Forte
++
++
++4. Relações entre as Síndromes de Deficiência, Excesso, Exterior, Interior, Frio e Calor
++Após a diferenciação entre as síndromes de deficiência e de excesso, uma análise subsequente deve ser feita para definir que combinação de síndromes está envolvida na doença.
++
++a) Síndrome de Deficiência do Exterior 
++As síndromes de deficiência do exterior são classificadas em dois tipos: uma é causada por vento patogênico e a outra é provocada por enfraquecimento interno.
++Manifestações clínicas:
++- A síndrome de deficiência do exterior por vento patogênico se manifesta em cefaléia, obstrução nasal, febre, transpiração, aversão ao vento, pulso superficial e mole. A síndrome de deficiência do exterior causada por vento tem uma patogenia exterior. O vento invade o meridiano Tai Yang, causando cefaléia e contratura cervical. O Yang Qi em excesso na superfície corporal causa febre. Quando, por ação do vento, perde-se o controle do fechamento dos poros, surge transpiração com aversão ao vento. Como o vento está localizado no exterior, isso origina pulso superficial e mole.
++- As manifestações da síndrome de deficiência do exterior por enfraquecimento interno são transpiração espontânea e frequente, resfriados de repetição, compleição pálida, respiração fraca, dispneia aos exercícios, lassidão, língua pálida com revestimento branco, pulso filiforme e fraco. A síndrome de enfraquecimento do interior é resultante da deficiência do Qi do Fei e do Qi do Pi. O Fei governa a pele e os pêlos e Pi controla os músculos. A deficiência de ambos acarreta enfraquecimento da função do Wei Qi na proteção do organismo contra a doença, o que contribui para o desenvolvimento da transpiração espontânea. O Wei Qi debilitado afeta a resistência do corpo, tornando o paciente suscetível a resfriados de repetição. A deficiência do Qi do Pi e do Fei é caracterizada por compleição pálida, respiração fraca, apatia e dispneia aos exercícios físicos. Língua pálida com revestimento branco e pulso filiforme são também características da deficiência de Qi.
++
++b) Síndrome de Excesso do Exterior
++A síndrome de excesso do exterior é a síndrome do exterior causada por um ataque de frio patogênico à superfície corporal.
++Manifestações clínicas: Aversão ao frio, febre, anidrose, cefaléia, polimialgia, pulso superficial e tenso.
++
++c) Síndrome de Deficiência do Interior
++A síndrome de deficiência do interior envolve enfraquecimento dos meridianos Zang Fu, Yin, Yang, Qi, Xue e Jin Ye. 
++
++d) Síndrome de Excesso do Interior
++A síndrome de excesso do interior envolve a patologia dos Zang Fu e dos meridianos, além de vários tipos de patógenos. 
++
++e) Síndrome de Frio por Deficiência (Deficiência - Frio)
++A síndrome de frio por deficiência tem como origem a deficiência interior do Yang Qi.
++Manifestações clínicas: Apatia, compleição pálida, intolerância ao frio, membros frios, dor abdominal, fezes amolecidas, urina clara e profusa, respiração fraca, língua pálida e mole, pulso profundo, lento e fraco.
++
++f) Síndrome de Calor por Deficiência (Deficiência - Calor)
++A síndrome de calor por deficiência indica uma doença por deficiência de Yin no interior.
++Manifestações clínicas: Emagrecimento, calor nos cinco Xin, febre com inquietude, transpiração noturna, rubor malar, boca e/ou garganta secas, língua vermelha com revestimento escasso ou ausente e pulso filiforme e rápido.
++
++g) Síndrome de Frio por Excesso
++A síndrome de frio por excesso indica presença de doença desenvolvida por invasão do frio patogênico.
++Manifestações clínicas: Compleição pálida, membros frios, dor abdominal sensível à palpação, borborigmo, diarréia, urina clara e copiosa, língua com revestimento branco e úmido e pulso lento ou tenso.
++
++h) Síndrome de Calor por Excesso
++A síndrome do calor resulta da invasão do calor do exterior ao interior do corpo.
++Manifestações clínicas: Febre alta e desejo por frio, sede com preferência por líquidos frios, face vermelha e congestão conjuntival, agitação, vertigem e delírio, distensão e sensação de plenitude abdominal, dor à palpação, fezes secas, urina escura e escassa, língua vermelha com revestimento seco e amarelo e pulso cheio, escorregadio, rápido e/ou forte.
++
++- Distinção entre Síndromes de acordo com Yin e Yang
++
++Entre os oito princípios gerais, Yin e Yang são os mais importantes, e podem ser utilizados na classificação de todas as síndromes. A natureza da doença, seus sinais e sintomas clínicos podem ser classificados em Yin ou Yang. 
++
++1. Síndrome Yin
++As síndromes com características Yin são chamadas de síndromes Yin. Incluem a síndrome do interior, a síndrome de frio e a síndrome de deficiência.
++Manifestações clínicas: Compleição sem brilho, apatia, sensação de corpo pesado, tendência a aconchegar-se na cama, intolerância ao frio, membros frios, fadiga, voz fraca e tímida, diminuição de paladar e pouca sede, urina clara e abundante, diarreia, língua espessa, tenra e pálida, pulso profundo, lento e fraco ou irregular e filiforme.
++
++
++2. Síndrome Yang
++As síndromes com características Yang são chamadas síndromes Yang. Estas incluem a síndrome do exterior, a síndrome de calor e a síndrome de excesso.
++Manifestações clínicas: Febre, irritação, inquietude, voz alta, fala ininteligível, respiração ruidosa, sede e desejo por líquidos frios, constipação, urina escura e escassa, língua vermelha e escura com espículas e revestimento amarelo, pulso rápido, flutuante, cheio, escorregadio ou forte.
++
++3. Aspectos essenciais da distinção entre Síndrome Yin e Síndrome Yang
++
++Tabela 4 - Aspectos essenciais para distinguir a síndrome Yin da síndrome Yang, organizados de acordo com os quatro métodos diagnósticos.
++
++Diagnóstico
++Síndrome Yin
++Síndrome Yang
++Inspeção
++Compleição pálida, escura e sem brilho, tendência a encolher-se no leito, fadiga, apatia, língua espessa, mole e pálida com revestimento úmido e viscoso
++Rubor facial, febre, preferência por frio, inquietude, boca e lábios secos, língua de cor vermelha intensa, com espículas e revestimento amarelo
++Ausculta
++Voz baixa e tímida, fala tensa e respiração fraca
++Voz grossa e rouca, disforia, fala ativa, loquacidade, delírio, respiração ruidosa
++Anamnese
++Fezes fétidas, ingestão reduzida de alimentos, redução do paladar, ausência de sede, preferência por líquidos quentes, urina copiosa e clara
++Fezes secas com odor peculiar fétido, pouco apetite, boca seca, sede extrema com desejo de líquidos frios, urina escassa e escura
++Palpação e pulso
++Dor abdominal que melhora com pressão, sensação de frio generalizada, pés frios, pulso profundo, filiforme e/ou irregular e pulso lento e fraco
++Dor abdominal com aversão que piora à palpação, febre com pés quentes e pulso flutuante, cheio, rápido, deslizante, escorregadio ou forte
++
++
++4. Depleção de Yin e depleção de Yang.
++A depleção do Yin e/ou do Yang é considerada uma síndrome extremamente perigosa. Tais condições são geralmente causadas por febre alta com sudorese profusa, vômitos em grande quantidade ou hemorragia intensa.
++A depleção de Yin ou Yang se manifesta em diferentes quantidades e tipos de sudorese. A sudorese causada pela depleção de Yin não é somente quente e viscosa, mas também acompanhada de febre, extremidades quentes, pulso filiforme, rápido e fraco e outros sintomas e sinais de calor por deficiência devido à exaustão dos Jin Ye.
++A depleção do Yang se manifesta em sudorese fria, profusa, insípida e aquosa, acompanhada por frieza do corpo e das extremidades, apatia e pulso quase imperceptível. 
++
++
++
++
++DIFERENCIAÇÃO DAS SÍNDROMES DE ACORDO COM AS CARACTERÍSTICAS DOS FATORES PATOGÊNICOS
++
++A diferenciação deve ser realizada por meio de uma análise geral dos sinais e sintomas de acordo com as características das doenças originadas pelos vários fatores patogênicos. Essa abordagem é a diferenciação das síndromes de acordo com as características dos fatores patogênicos. Os fatores patogênicos podem ser classificados segundo quatro aspectos: 
++a) as seis condições climáticas anormais; 
++b) as sete emoções; 
++c) dieta imprópria e desgaste excessivo (estresse); 
++d) lesões por trauma.
++
++    A. Síndromes devido aos seis fatores patogênicos exógenos
++
++1. Síndrome devido ao Vento 
++Manifestações clínicas: Febre, aversão ao vento, cefaleia, transpiração, tosse, obstrução nasal, coriza, língua com revestimento fino e branco, pulso superficial e lento, prurido na pele.
++
++2. Síndrome devido ao Frio 
++Manifestações clínicas: Aversão ao frio, febre, anidrose, cefaléia, mialgia, língua com revestimento fino e branco, pulso superficial e tenso ou frio e dor nas articulações com enrijecimento.
++
++3. Síndrome devido ao Calor de Verão 
++
++a)  Calor de verão
++Manifestações clínicas: Febre com aversão ao calor, vertigem, sudorese, sede, urina concentrada, língua vermelha com revestimento branco ou amarelo, pulso rápido e fraco.
++
++b) Insolação
++Manifestações clínicas: Febre, obnubilação, síncope, sudorese profusa e contínua, podendo chegar à perda de consciência, língua seca e de cor vermelha intensa, pulso mole e rápido.
++
++4. Síndrome devido à Umidade 
++Manifestações clínicas: Sensação de peso na cabeça, como se estivesse enfaixada, dolorimento e cansaço nos quatro membros, dor em peso nas articulações, com dificuldade de flexioná-las e estendê-las.
++
++5. Síndrome devido à Secura 
++Manifestações clínicas: Febre, aversão moderada ao vento e ao frio, cefaleia, anidrose ou pouca transpiração, sede, secura no nariz e na garganta, tosse seca com expectoração escassa, revestimento da língua seco e branco ou amarelo, pulso superficial ou superficial e rápido.
++
++6. Síndrome devido ao Fogo (e Calor) 
++Manifestações clínicas: Inicialmente, as manifestações incluem a febre, aversão moderada ao frio e ao vento, cefaléia, dor na garganta, boca seca e sede. Tardiamente, a febre se torna alta e a sede mais intensa. Quando o calor invade o sistema Ying (nutrição) e o Xue, acarreta inquietude e insônia, e eventualmente também hemorragia, como hematêmese ou epistaxe.
++
++
++
++    B. Síndromes devido às sete emoções 
++
++As sete emoções são: alegria, raiva, melancolia, preocupação, pesar (tristeza), medo e terror (choque). As síndromes decorrentes das sete emoções se manifestam como doenças devido à lesão interna. De forma genérica, as sete emoções são a resposta do organismo e da mente aos estímulos externos. Se a emoção ocorre em um nível normal da atividade mental, nenhuma doença será causada. Somente um distúrbio emocional repentino, forte e/ou persistente, pode afetar a fisiologia do corpo humano e ocasionar distúrbios do Qi, do Xue e dos Zang Fu, que originam as doenças.
++De acordo com a observação clínica, as doenças causadas pelas sete emoções afetam, na maioria dos casos, o Xin, o Gan e o Pi. Se as sete emoções afetam o Xin, surgem palpitação, insônia e/ou excesso de sonhos, inquietude, torpor, choro sem motivos, riso e mania.
++Quando as sete emoções atacam o Gan, ocorre depressão, irritabilidade, dor em distensão nos hipocôndrios, eructação, suspiros, sensação de corpo estranho na garganta e, nas mulheres especificamente, menstruação irregular e dor em distensão nas mamas.
++Se as sete emoções atacam o Pi, ocorre diminuição do apetite, dor e distensão abdominal e distúrbios na defecação.
++
++    C. Síndromes devido à dieta imprópria e ao desgaste excessivo (Estresse)
++
++A diferenciação das síndromes devido à lesão interna por dieta imprópria, desgaste excessivo ou atividade sexual excessiva pode ser realizada de acordo com os sinais e sintomas e a história clínica.
++
++1. Síndrome devido à lesão por dieta imprópria
++Manifestações clínicas: Dor abdominal, vômito, diarréia, diminuição do apetite, eructação fétida, regurgitação ácida, revestimento da língua espesso e pegajoso, pulso escorregadio e forte. A ingestão de alimentos estragados ou tóxicos pode provocar náusea, vômito, diarréia e/ou cólica intensa.
++
++2. Síndromes devido à lesão por excesso de esforço físico e por sedentarismo
++Manifestações clínicas: O excesso de esforço ou desgaste físico causa desânimo, lassidão, respiração fraca, indisposição para falar e diminuição do apetite. O sedentarismo, atividade física ausente ou muito reduzida, provoca obesidade, dificuldade nos movimentos, baixo condicionamento físico, fraqueza e flacidez dos membros.
++
++3. Síndrome devido ao enfraquecimento por excesso sexual 
++Manifestações clínicas: A atividade sexual excessiva causa deficiência de Yin e Yang. A deficiência de Yin está associada a dor e cansaço na lombar e nos joelhos, lassidão, febre vespertina, sudorese noturna e polução noturna. A deficiência de Yang causa disfunção erétil, ejaculação precoce, extremidades frias, lombalgia e fraqueza das pernas e espermatorreia.
++
++    D. Síndrome devido ao trauma
++
++Frente ao trauma, além da avaliação local, deve-se considerar uma observação global de todo o corpo visando determinar a gravidade e o estágio de desenvolvimento da doença.
++
++1. Síndrome devido a lesões por incisão, picada ou mordida de insetos ou animais
++Manifestações clínicas: Casos leves e moderados apresentam rubor local, edema e dor, enquanto os casos graves apresentam lesões inflamatórias com sangramento. O sangramento volumoso leva a compleição pálida, vertigem, visão borrada e outros sintomas de colapso em casos graves. Atacada pelo vento, a área lesada causa febre, trismo, opistótono e expressão com semblante de sorriso espástico. Lesão por mordida de um cão raivoso resulta em hidrofobia, fotofobia e fonofobia na fase de ataque da doença.
++
++2. Síndrome devido à lesão por trauma
++Manifestações clínicas: São bastante variáveis. Os casos moderados se manifestam em dor, dificuldade de movimentação com estase sanguínea local ou mesmo sangramento. Alguns casos graves com lesão óssea e do cérebro resultam em vertigem, desvio do conjugado dos olhos para cima, disfasia e síncope.
++
++DIFERENCIAÇÃO DAS SÍNDROMES DE QI E XUE DE ACORDO COM O CONCEITO DE QI E XUE 
++
++A. Diferenciação das síndromes de Qi
++
++Há muitos tipos de síndromes de Qi. Contudo, as mais comuns são classificadas Como deficiência de Qi, desmoronamento de Qi, estagnação de Qi e fluxo reverso de Qi.
++
++1. Deficiência de Qi
++Deficiência de Qi é a síndrome que ocorre quando a função dos Zang Fu está enfraquecida. É com frequência causada por doenças prolongadas (crônicas), desgaste excessivo e fraqueza resultante de idade avançada, entre outros fatores.
++Manifestações clínicas: Respiração curta e fraca, indisposição para falar, languidez, vertigem, visão borrada, transpiração espontânea. Todos os sintomas agravam-se ao esforço ou ao exercício físico. O pulso é fraco e a língua é pálida com revestimento branco.
++
++2. Desmoronamento do Qi
++O desmoronamento do Qi se refere a uma situação de tamanha deficiência do Qi que sua função e o movimento de ascensão são comprometidos, invertendo seu sentido normal e entrando em descensão.
++É uma evolução possível da deficiência de Qi ou da incapacidade de Pi de manter sua função de ascensão do Qi devido ao desgaste.
++Manifestações clínicas: Vertigem, visão turva ou borrada, respiração curta e fraca, lassidão, língua Pálida com revestimento branco, pulso fraco, distensão abdominal com sensação de peso (em queda, descendente), prolapso do reto ou prolapso de útero ou bexiga.
++
++3. Estagnação de Qi
++A estagnação de Qi surge da obstrução ou dificuldade no movimento funcional do Qi em alguma parte do corpo humano, ou em algum Zang Fu.
++Manifestações clínicas: Sensação de plenitude e distensão, dor em distensão, sensação local de distensão ou estufagem.
++
++4. Fluxo Reverso do Qi
++O fluxo reverso do Qi decorre dos distúrbios nos processos de ascensão e descensão. As manifestações clínicas incluem, na maioria das vezes, os sinais e sintomas do fluxo reverso de Qi do Fei, do Wei e do Gan.
++Manifestações clínicas: O fluxo reverso do Qi do Fei é caracterizado por tosse e asma; o do Wei por soluço, eructação, náusea e vômito; e o do Gan é marcado por cefaléia, vertigem, síncope e hematêmese.
++
++
++
++B. Diferenciação das síndromes do Xue
++
++As síndromes do Xue podem ser divididas em deficiência de Xue, estagnação de Xue, calor no Xue e trio no Xue.
++
++1. Deficiência de Xue
++A deficiência de Xue é em geral causada por perdas sanguíneas ou falhas na produção de Qi e Xue por deficiência de Pi e Wei. Também pode ser ocasionada por lesão interna pelas sete emoções, que provoca consumo de Yin e Xue.
++Manifestações clínicas: Compleição pálida, opaca ou amarelada, doentia, lábios pálidos, vertigem, visão borrada, palpitação, insônia, dormência nos membros, atraso menstrual, fluxo diminuído ou amenorreia, língua pálida, pulso fraco e filiforme.
++
++2. Estase de Xue
++A estase de Xue refere-se tanto ao Xue extravasado que não pode ser expelido ou eliminado rapidamente, ficando acumulado, quanto ao impedimento ou dificuldade do fluxo sanguíneo por qualquer motivo, com consequente bloqueio nos meridianos ou órgãos. Ambas as condições são consideradas estase de Xue. Com frequência, a estase de Xue resulta do acúmu10 de frio, da estagnação de Qi, da deficiência de Qi e das lesões exteriores.
++Manifestações clínicas: Dor lancinante ou em pontada de localização fixa e bem definida e dor intensa à pressão. Massas abdominais, fluxo menstrual reduzido com coágulos ou amenorreia, língua púrpura escura, eventualmente com equimoses e petéquias, e pulso irregular.
++
++3. Calor no Xue
++Calor no Xue é uma síndrome causada pela presença de fogo e calor em excesso nos Zang Fu, afetando o Xue. Na maior parte dos casos, decorre de emoções excessivas, de excessos na ingestão alcoólica ou de raiva afetando o Gan.
++Manifestações clínicas: Hemoptise, hematêmese, hematúria, epistaxe, língua vermelha escura ou púrpura, pulso em corda e rápido.
++
++4. Frio no Xue
++Os sinais e sintomas decorrentes do frio no Xue devem-se principalmente à estagnação de Qi e Xue, resultante do acúmulo do patógeno frio no Xue. 
++Manifestações clínicas: Dores nas mãos e pés, compleição púrpura escura, aversão ao frio e preferência por calor (este pode abrandar os sintomas). Dor no baixo ventre, língua com revestimento branco e pulso profundo, lento e irregular.
++
++
++C. Diferenciação das síndromes envolvendo Qi e Xue simultaneamente
++
++Qi e Xue promovem-se mutuamente, seja na formação e no desenvolvimento ou na função. Portanto, quando em situação de enfermidade, também influenciam um ao outro. Na clínica, distúrbios simultâneos de Qi e Xue são conhecidos como síndromes que envolvem Qi e Xue simultaneamente. As síndromes mais comuns são a estagnação conjunta de Qi e Xue, a estas e de Xue devido à deficiência de Qi, a deficiência conjunta de Qi e Xue e a hemorragia por deficiência de Qi.
++
++1. Estagnação conjunta de Qi e Xue
++A estagnação conjunta de Qi e Xue é causada pela estagnação de Qi, provocando a estase de Xue. Na maior parte dos casos a estagnação de Qi é ocasionada por frustração, que resulta em disfunção do Qi do Gan.
++Manifestações clínicas: Dor com sensação de plenitude, dor em distensão e migratória no tórax e nos hipocôndrios, irritabilidade, presença de massas palpáveis, dor lancinante piorando com palpação e, em mulheres, amenorreia, dismenorreia ou fluxo menstrual de cor púrpura escura com coágulos. Língua púrpura escura com petéquias e pulso áspero.
++
++2. Estagnação de Xue por deficiência de Qi
++A estagnação de Xue resultante da deficiência de Qi é a síndrome caracterizada pela incapacidade de impulsionar adequadamente o Xue em função da deficiência de Qi. Em geral, é causada por doença crônica que acarreta deficiência de Qi. 
++Manifestações clínicas: Compleição pálida e escura, fadiga, respiração curta e cansada, indisposição para falar, dor fixa e lancinante (geralmente no tórax e hipocôndrios), dor fixa sensível à pressão, língua púrpura com petéquias, pulso profundo e áspero.
++
++3. Deficiência conjunta de Qi e Xue
++A deficiência conjunta de Qi e Xue se refere à síndrome onde a deficiência de Qi e a deficiência de Xue existem simultaneamente. Na maior parte dos casos é causada por doenças prolongadas e pela falha do Qi deficiente na produção de Xue, ou vice-versa.
++Manifestações clínicas: Respiração curta e fraca (cansada), indisposição para falar, fadiga, transpiração espontânea, compleição pálida e macilenta, palpitação, insônia, língua pálida e mole, pulso filiforme e fraco.
++
++4. Hemorragia por deficiência de Qi
++A hemorragia por deficiência de Qi caracteriza-se por sangramento devido à incapacidade do Qi deficiente de governar o Xue. Na maioria dos casos, decorre de doenças ou perdas sanguíneas crônicas que geram consumo e perda de Qi.
++Manifestações clínicas: Hematêmese, melena, equimoses, sangramento uterino, respiração curta e cansada, fadiga, compleição pálida e opaca, língua pálida, pulso filiforme e fraco.
++
++    D. Diferenciação das síndromes de acordo com Wei, Qi, Ying e Xue
++
++A diferenciação das síndromes de acordo com os conceitos de Wei, Qi, Ying e Xue é aplicada em especial para a diferenciação de enfermidades febris epidêmicas exógenas. Existem quatro tipos ou estágios: síndrome no estágio Wei, síndrome no estágio Qi, síndrome no estágio Ying e síndrome no estágio Xue.
++Wei refere-se ao Wei Qi, distribuído na parte exterior do corpo. Quando o fator patogênico invade o sistema Wei do corpo, o nível Wei, área superficial do corpo, é o primeiro a ser atacado. Se, ao invés de ser expelido, o patógeno ficar estagnado no nível Wei, poderá se mover para o interior, invadindo o segundo nível, isto é, o sistema Qi. Se o patógeno não for eliminado deste nível em virtude de uma deficiência do Qi e do Jin Ye, invadirá progressivamente o nível seguinte, afetando o sistema Ying. Se o patógeno continuar na sua progressão, envolverá então o sistema do Xue, o quarto estágio. Assim sendo, a diferenciação das síndromes de Wei, Qi, Ying e Xue não é somente um sumário dos quatro diferentes tipos de síndromes relacionadas às doenças febris sazonais, mas também uma indicação dos quatro diferentes estágios (graus de gravidade) das mudanças patológicas no desenvolvimento dessas enfermidades.
++A síndrome no estágio Wei é uma síndrome de calor do exterior, envolvendo o Fei e a pele; no estágio Qi, é uma síndrome do interior atingindo o tórax, o diafragma, o Wei, o Da Chang e o Xiao Chang. A síndrome no estágio Ying é a invasão do sistema Ying pelo calor, causando distúrbios no Xin e no Xin Bao. Por fim, a síndrome no estágio Xue diz respeito à invasão do Gan e do Shen pelo calor, caracterizada pelo consumo exagerado do Xue, sangramento e agitação pelo vento do Gan.
++
++
++1. Síndrome no estágio Wei
++A síndrome no estágio Wei refere-se a uma síndrome do exterior. Indica uma invasão inicial pelo patógeno na superfície do corpo, causando disfunção do Wei Qi. Como o Fei governa a pele e os pêlos e o Wei Qi circula na superfície do corpo, mantendo ligação com a função do Fei, a invasão pelo calor no sistema Wei tem manifestações relacionadas ao Fei.
++Manifestações clínicas: Febre, aversão leve ao vento e ao frio, ponta e bordas da língua vermelhas, pulso superficial e rápido, cefaléia, boca seca com sede moderada, tosse e inflamação na garganta.
++
++2. Síndromes no estágio Qi
++As síndromes no estágio Qi são síndromes de calor do interior decorrentes da invasão dos Zang Fu pelo calor. Ocorrem em razão do conflito intenso entre o Qi vital pleno e o fator patogênico excessivo, o qual resulta em hiperatividade do Yang. As síndromes incluídas são: estagnação de calor no Fei, distúrbios pelo calor no tórax e diafragma, calor no Wei, acúmulo de calor em Da Chang e Xiao Chang, estagnação de calor em Dan, e calor umidade no Pi e Wei.
++Manifestações clínicas: Febre alta com aversão ao calor, língua vermelha com revestimento amarelado e pulso rápido. Essas síndromes são acompanhadas de irritabilidade, sede, urina concentrada de cor amarela forte ou tosse e dispneia, dor no tórax, expectoração de catarro espesso, viscoso e amarelado. Podem também apresentar disforia e inquietude. Em outros casos apresentam febre alta, sede intensa com preferência por bebidas frias, transpiração profusa e pulso cheio, ou febre vespertina e constipação ou diarreia líquida, dor abdominal com plenitude local, revestimento da língua seco amarelado, ou algumas vezes preto e espiculado; pulso profundo, forte e rápido.
++
++3. Síndrome no estágio Ying
++A síndrome no estágio Ying indica calor do interior, que pode ser de natureza grave. É caracterizada pela lesão do estágio Yin e distúrbios da mente.
++Manifestações clínicas; Febre com picos noturnos, sede fraca, irritabilidade ou delírio em casos graves, leves erupções sanguíneas na face, língua com coloração vermelha escura, pulso filiforme e rápido.
++
++4. Síndrome no estágio Xue
++A síndrome no estágio Xue marca uma etapa crítica na qual os patógenos foram transmitidos profundamente ao interior do sistema Xue. Caracteriza-se por consumo e lesão do Xue, sangramento, lesão de Yin e agitação do vento.
++Manifestações clínicas: Febre alta, irascibilidade e delírio, erupções sanguíneas, hematêmese, epistaxe, fezes com sangue, hematúria, língua vermelha escura, ou inconsciência, convulsões clônicas, espasmo cervical, opistótono, desvio conjugado dos olhos para cima, trismo, febre baixa por longos períodos, febre durante a noite aliviando pela manhã, disforia e sensação de aquecimento nos cinco
++Xin, boca e garganta secas, fadiga, língua seca ou com pouca umidade, emagrecimento, lábios secos, gengivas secas, olhos encovados e visão borrada, torpor, rubor malar, tremor das mãos e pés e pulso fraco, rápido ou filiforme.
++
++
++DIFERENCIAÇÃO DAS SÍNDROMES DE ACORDO COM A TEORIA DOS ZANG FU
++
++A diferenciação das síndromes de acordo com a Teoria dos Zang Fu é aplicada para analisar de forma geral os sinais e sintomas de acordo com as condições fisiológicas e patológicas dos Zang Fu, objetivando assim inferir o processo de patogênese e determinar o local das mudanças patológicas. Embora existam vários métodos de diferenciação de síndromes, cada qual com características próprias, é necessário considerar os Zang Fu para identificar precisamente a localização da doença. Por exemplo, a síndrome por deficiência de Yin, segundo a diferenciação das condições patológicas por meio do "Método dos Oito Princípios", pode ser dividida em diferentes tipos de deficiência de Yin relacionados com os órgãos envolvidos, como as deficiências de Yin do Xin, do Fei, do Gan, do Shen e do Wei.
++Zang e Fu estão relacionados entre si, assim como todos os órgãos e tecidos do organismo. Dessa forma, quando a diferenciação das síndromes de acordo com a Teoria dos Zang Fu é conduzida, faz-se necessário ter uma visão holística, não considerando somente as mudanças patológicas de um órgão individualmente, mas observando-se as inter-relações entre os Zang Fu e suas interações mútuas. A diferenciação das síndromes de acordo com a Teoria dos Zang Fu engloba três partes: diferenciação das síndromes dos Zang, diferenciação das síndromes dos Fu e diferenciação das síndromes envolvendo ambos, Zang e Fu. A análise das síndromes dos Zang é o principal método usado na diferenciação das síndromes. 
++
++A. Diferenciação das síndromes do Xin e do Xiao Chang
++
++As síndromes do Xin são classificadas em dois tipos: deficiência e excesso. 
++As síndromes de deficiência usualmente decorrem de doenças crônicas, deficiência inata, preocupação e tristeza, que causam a deficiência do Qi do Xin e do Yang do Xin, bem como do consumo de seu Yin e/ou de seu Xue. As síndromes de excesso resultam da estagnação de mucosidade, distúrbio pelo fogo, acúmulo de frio, estase de Xue e estagnação de Qi. 
++Os sintomas comuns do Xin são palpitação, taquicardia funcional, desconforto torácico ou precordialgia, insônia, excesso de sonhos, enfraquecimento da memória, delírio, gagueira, afasia e inibição da fala, além de transtornos psiquiátricos.
++Indícios de patologia do intestino delgado incluem: distúrbios intestinais, borborigmo e problemas de clareza mental e discernimento.
++Padrões de desarmonia do Zang Fu – vide literatura indicada.
++
++B. Diferenciação das Síndromes do Fei e do Da Chang
++
++As síndromes do Fei são classificadas em síndromes de excesso e de deficiência. As síndromes de deficiência incluem em geral as deficiências de Qi e Yin. As síndromes de excesso são muitas vezes decorrentes da agressão por fatores patogênicos externos como o vento, o frio, a secura e o calor ou o acúmulo de mucosidade-umidade no Fei.
++Fazem parte das síndromes do Da Chang o calor umidade no Da Chang, a deficiência de fluidos e a deficiência do Yang Qi. 
++Os sintomas comuns das doenças do Fei são tosse, asma, dispneia, dor torácica, sensação de aperto no peito, propensão a resfriados comuns, sensibilidade ao frio, alergias, mãos frias, secreção de suor comprometida (espontânea), pele seca, doenças do nariz e dos seios paranasais, voz baixa, doenças psicossomáticas decorrentes do sofrimento e de separação, incapacidade de deixar ir e de começar de novo e tristeza.
++As disfunções do transporte no Da Chang se manifestam principalmente em diarreia ou constipação, além de dor abdominal.
++Padrões de desarmonia do Zang Fu – vide literatura indicada.
++
++C. Diferenciação das síndromes do Pi e do Wei
++	
++As Síndromes do Pi e do Wei podem ser classificadas em síndromes de frio, calor, deficiência e excesso. 
++As síndromes mais frequentes do Pi são deficiência do Yang Qi, disfunção no transporte e transformação, umidade e mucosidade do interior e falha em controlar o Xue. Sinais de desarmonia incluem distensão abdominal, diarreia ou constipação, apetite comprometido, fadiga, exaustão, preocupação, pensamento compulsivo, melancolia, tendência a ser taciturno, falta de concentração, pouca capacidade para reconhecer e aceitar mudanças, produção de muco, edema, ascite, ptose e transtornos hemorrágicos.
++As mais frequentes do Wei são disfunção em receber e digerir os alimentos e ascensão reversa do Qi do Wei. Sinais de desarmonia incluem fadiga, fraqueza dos membros, queixas digestivas (desconforto ou dor epigástrica, náusea, vômito, regurgitação, halitose) e alteração do apetite e paladar.
++Padrões de desarmonia do Zang Fu – vide literatura indicada.
++
++D. Diferenciação das síndromes do Gan e do Dan
++
++As síndromes do Gan são divididas em síndrome de excesso e de deficiência. As de deficiência usualmente decorrem da deficiência do Yin e/ou do Xue do Gan. As de excesso são causadas na maioria das vezes, pela estagnação do Qi do Gan, fogo em excesso e invasão pelo frio ou umidade calor.
++Os sinais e sintomas comuns das doenças do Gan são: dor com distensão nos hipocôndrios e no baixo ventre, dor migratória, irritabilidade, raiva, fúria, agressão, tendência a ser injusto consigo mesmo e com os outros, autopiedade, vertigem, tremor nos membros e corpo, espasmos musculares, tensão muscular, unhas frágeis, convulsão nas mãos e pés, doenças oftalmológicas, menstruação irregular, dismenorreia, TPM e dor e sensação de distensão nos testículos.
++As síndromes de Dan são geralmente marcadas pelo gosto amargo na boca, dor no hipocôndrio, pele amarelada, insônia e dificuldade de tomar decisões.
++Padrões de desarmonia do Zang Fu – vide literatura indicada.
++
++E. Diferenciação das síndromes do Shen e do Pangguang
++
++Tanto o Yin quanto o Yang primários são armazenados no Shen e são a fonte de vida e energia para as atividades fisiológicas dos Zang Fu. Uma vez afetados o Yin ou Yang do Shen, todos os Zang Fu serão afetados. 
++Desta forma, é mais comum que as doenças do Shen se manifestam como síndromes de deficiência: deficiência do Yang do Shen; deficiência do Yin do Shen; deficiência do Jing do Shen; incapacidade do Shen de controlar e incapacidade do Shen de manter a inspiração normal. Os sinais e sintomas comuns das doenças do Shen são: desenvolvimento tardio na criança, lassidão e dor nos joelhos e na região lombar, tinidos, diminuição da audição, embranquecimento dos cabelos e alopecia, perda precoce dos dentes, disfunção erétil, emissão seminal anormal, oligospermia e esterilidade, menstruação escassa, amenorreia, tendência ao aborto, edema, falta de vitalidade e pouca força de vontade, exaustão mental, desconfiança, falta de paciência.
++A doença do Pangguang se manifesta frequentemente como Síndrome de Umidade-Calor. Os sinais e sintomas comuns da doença do Pangguang são: aumento da frequência e urgência urinária, disúria, enurese e incontinência urinária.
++Padrões de desarmonia do Zang Fu – vide literatura indicada.
++
++
++F. Diferenciação das síndromes complexas dos órgãos
++
++Na fisiologia, os Zang Fu estão intimamente relacionados. Assim sendo, também se afetam mutuamente durante os processos patológicos. Algumas vezes, a doença de um órgão envolverá outros órgãos. As doenças de dois ou mais órgãos podem ocorrer em sucessão ou simultaneamente. A isso denominamos Síndromes Complexas dos Zang Fu, cuja discussão será feita a seguir.
++Padrões de desarmonia complexos – vide literatura indicada.
++
++
